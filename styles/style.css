@@ -201,6 +201,7 @@ main {
     font-size: 14px;
     color:#fff;
     background-color: #dd0356;
+    text-decoration: none;
     padding: 10px 30px 10px 30px;
     border: none;
     width: fit-content;
